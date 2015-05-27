@@ -1,6 +1,8 @@
 ImageEffects
 ============
 
+[![CocoaPods](http://img.shields.io/cocoapods/v/ImageEffects.svg?style=flat)](http://cocoapods.org/?q=name%3AImageEffects%20author%3Adevxoul)
+
 Bring UIImageEffects (WWDC 2013) to UIImage category with handy interface.
 
 
